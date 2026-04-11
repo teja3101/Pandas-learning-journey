@@ -1,0 +1,19 @@
+﻿ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,PRODUCTCODE,CUSTOMERNAME,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,ORDERNUMBER,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE
+,30,95.7,2,2/24/2003 0:00,Shipped,1,2,2003,Motorcycles,S10_1678,Land of Toys Inc.,897 Long Airport Avenue,,NYC,NY,10022,USA,,Yu,Kwai,Small
+10121,34,81.35,5,05-07-2003 00:00,Shipped,2,5,2003,Motorcycles,S10_1678,Reims Collectables,59 rue de l'Abbaye,,Reims,,51100,France,-5014.825,Henriot,Paul,Small
+10134,41,94.74,2,07-01-2003 00:00,Shipped,3,7,2003,Motorcycles,S10_1678,Lyon Souveniers,27 rue du Colonel Pierre Avia,,Paris,,75508,France,-5017.63,Da Cunha,Daniel,Medium
+10145,45,83.26,6,8/25/2003 0:00,Shipped,3,8,2003,Motorcycles,S10_1678,Toys4GrownUps.com,78934 Hillside Dr.,,Pasadena,CA,90003,USA,-5024.87,Young,Julie,Medium
+10159,49,100,14,10-10-2003 00:00,Shipped,4,10,2003,,S10_1678,Corporate Gift Ideas Co.,7734 Strong St.,,San Francisco,CA,,USA,-5015.5,Brown,Julie,Medium
+10168,36,96.66,1,10/28/2003 0:00,Shipped,4,10,2003,Motorcycles,S10_1678,Technics Stores Inc.,9408 Furth Circle,,Burlingame,CA,94217,USA,-5034.67,Hirano,Juri,
+10180,29,86.13,9,11-11-2003 00:00,Shipped,4,11,2003,Motorcycles,S10_1678,Daedalus Designs Imports,"184, chausse de Tournai",,Lille,,59000,France,-5037.935,Rance,Martine,Small
+10188,48,100,1,11/18/2003 0:00,Shipped,4,11,2003,Motorcycles,S10_1678,,"Drammen 121, PR 744 Sentrum",,Bergen,,N 5804,Norway,-5043,Oeztan,Veysel,Medium
+10201,22,98.57,2,12-01-2003 00:00,Shipped,4,12,2003,Motorcycles,S10_1678,Mini Wheels Co.,5557 North Pendale Street,,San Francisco,CA,,USA,-5049.215,Murphy,Julie,Small
+10211,41,100,14,1/15/2004 0:00,Shipped,1,1,2004,Motorcycles,S10_1678,Auto Canal Petit,"25, rue Lauriston",,Paris,,75016,France,-5041.5,Perrier,Dominique,Medium
+10223,37,100,1,2/20/2004 0:00,Shipped,1,2,2004,Motorcycles,S10_1678,"Australian Collectors, Co.",636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,-5060.5,Ferguson,Peter,Medium
+10237,23,100,7,04-05-2004 00:00,Shipped,2,4,2004,Motorcycles,S10_1678,Vitachrome Inc.,2678 Kingston Rd.,Suite 101,NYC,NY,10022,USA,-5061.5,Frick,Michael,Small
+10251,28,100,2,5/18/2004 0:00,Shipped,2,5,2004,Motorcycles,S10_1678,Tekni Collectables Inc.,7476 Moss Rd.,,Newark,NJ,94019,USA,-5073.5,Brown,William,Medium
+10263,34,100,2,6/28/2004 0:00,Shipped,2,6,2004,Motorcycles,S10_1678,Gift Depot Inc.,25593 South Bay Ln.,,Bridgewater,CT,97562,USA,-5079.5,King,Julie,Medium
+10275,45,92.83,1,7/23/2004 0:00,Shipped,3,7,2004,Motorcycles,S10_1678,La Rochelle Gifts,"67, rue des Cinquante Otages",,Nantes,,44000,France,-5090.085,Labrune,Janine,Medium
+10285,36,100,6,8/27/2004 0:00,Shipped,3,8,2004,Motorcycles,S10_1678,Marta's Replicas Co.,39323 Spinnaker Dr.,,Cambridge,MA,51247,USA,-5086.5,Hernandez,Marta,Medium
+10299,23,100,9,9/30/2004 0:00,Shipped,3,9,2004,Motorcycles,S10_1678,"Toys of Finland, Co.",Keskuskatu 45,,Helsinki,,21240,Finland,-5090.5,Karttunen,Matti,Small
+10309,41,100,5,10/15/2004 0:00,Shipped,4,10,2004,,S10_1678,Baane Mini Imports,Erling Skakkes gate 78,,Stavern,,4110,Norway,EMEA,Bergulfsen,Jonas,Medium
