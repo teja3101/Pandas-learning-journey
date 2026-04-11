@@ -74,7 +74,7 @@ Some of the tasks implemented in this repository:
 
 ---
 
-## 🙋‍♂️ Author
+## 👩‍💻 Author
 
 **Teja3101**
 
