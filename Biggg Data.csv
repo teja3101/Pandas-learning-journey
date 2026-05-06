@@ -1,0 +1,19 @@
+﻿ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,PRODUCTCODE,CITY,POSTALCODE,COUNTRY,ORDERNUMBER,CONTACTLASTNAME,DEALSIZE
+,30,95.7,2,2/24/2003 0:00,Shipped,1,2,2003,Motorcycles,S10_1678,NYC,10022,USA,,Yu,Small
+10121,34,81.35,5,05-07-2003 00:00,Shipped,2,5,2003,Motorcycles,S10_1678,Reims,51100,France,-5014.825,Henriot,Small
+10134,41,94.74,2,07-01-2003 00:00,Shipped,3,7,2003,Motorcycles,S10_1678,Paris,75508,France,-5017.63,Da Cunha,Medium
+10145,45,83.26,6,8/25/2003 0:00,Shipped,3,8,2003,Motorcycles,S10_1678,Pasadena,90003,USA,-5024.87,Young,Medium
+10159,,100,14,10-10-2003 00:00,Shipped,4,10,2003,Motorcycles,S10_1678,San Francisco,,USA,-5015.5,Brown,Medium
+10168,36,96.66,1,10/28/2003 0:00,Shipped,4,,2003,Motorcycles,S10_1678,Burlingame,94217,USA,-5034.67,Hirano,Small
+10180,,86.13,9,11-11-2003 00:00,Shipped,4,,2003,Motorcycles,S10_1678,Bergen,59000,France,-5037.935,Rance,Small
+10188,,100,1,11/18/2003 0:00,Shipped,4,,2003,Motorcycles,S10_1678,Bergen,N 5804,Norway,-5043,Oeztan,Medium
+10201,,98.57,2,12-01-2003 00:00,Shipped,4,,2003,Motorcycles,S10_1678,Bergen,,USA,-5049.215,Oeztan,Small
+10211,,100,14,1/15/2004 0:00,Shipped,1,,2004,Motorcycles,S10_1678,Paris,75016,France,-5041.5,Perrier,Medium
+10223,,100,1,2/20/2004 0:00,Shipped,1,,2004,Motorcycles,S10_1678,Melbourne,3004,Australia,-5060.5,Oeztan,Medium
+10237,,100,7,04-05-2004 00:00,Shipped,2,,2004,Motorcycles,S10_1678,NYC,,USA,-5061.5,Frick,Small
+10251,,100,2,5/18/2004 0:00,Shipped,2,5,2004,Motorcycles,S10_1678,Newark,94019,USA,-5073.5,Oeztan,Medium
+10263,,100,2,6/28/2004 0:00,Shipped,2,6,2004,Motorcycles,S10_1678,Bridgewater,97562,USA,-5079.5,King,Medium
+10275,45,92.83,1,7/23/2004 0:00,Shipped,3,7,2004,Motorcycles,S10_1678,Nantes,44000,France,-5090.085,Labrune,Medium
+10285,36,100,6,8/27/2004 0:00,Shipped,3,8,2004,Motorcycles,S10_1678,Cambridge,51247,USA,-5086.5,Oeztan,Medium
+10299,23,100,9,9/30/2004 0:00,Shipped,3,9,2004,Motorcycles,S10_1678,Helsinki,21240,Finland,-5090.5,Karttunen,Small
+10309,41,100,5,10/15/2004 0:00,Shipped,4,10,2004,,S10_1678,Stavern,4110,Norway,EMEA,Bergulfsen,Medium
